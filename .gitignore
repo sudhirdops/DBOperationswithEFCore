@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DBOperationswithEFCore/copilot-chat/3a3e732e/sessions/1cedaa9a-aae7-4fa5-881e-33f2b1f0c941
+/.vs/DBOperationswithEFCore/copilot-chat/3a3e732e/sessions/e4594db8-dcb9-435d-872e-50e4fc5d05d8
+/.vs/DBOperationswithEFCore/CopilotIndices/0.2.1648.49400/CodeChunks.db
+/.vs/DBOperationswithEFCore/CopilotIndices/0.2.1648.49400/CodeChunks.db-shm
+/.vs/DBOperationswithEFCore/CopilotIndices/0.2.1648.49400/CodeChunks.db-wal
+/.vs/DBOperationswithEFCore/CopilotIndices/0.2.1648.49400/SemanticSymbols.db
+/.vs/DBOperationswithEFCore/CopilotIndices/0.2.1648.49400/SemanticSymbols.db-shm
+/.vs/DBOperationswithEFCore/CopilotIndices/0.2.1648.49400/SemanticSymbols.db-wal
+/DBOperationswithEFCore/obj/Debug/net8.0/DBOperationswithEFCore.AssemblyInfo.cs
+/DBOperationswithEFCore/obj/Debug/net8.0/DBOperationswithEFCore.AssemblyInfoInputs.cache
+/DBOperationswithEFCore/obj/Debug/net8.0/DBOperationswithEFCore.assets.cache
+/DBOperationswithEFCore/obj/Debug/net8.0/DBOperationswithEFCore.csproj.AssemblyReference.cache
+/DBOperationswithEFCore/obj/Debug/net8.0/DBOperationswithEFCore.GeneratedMSBuildEditorConfig.editorconfig
